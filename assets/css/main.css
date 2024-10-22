@@ -2099,7 +2099,7 @@ input, select, textarea {
 	}
 
 	#top {
-		padding: 10em 0 10em 0;
+		padding: 7em 0 2em 0;
 		text-align: left;
 	}
 
@@ -2202,7 +2202,7 @@ input, select, textarea {
 		/* Articles */
 
 			#top {
-				padding: 8em 0;
+				/* padding: 8em 0; */
 			}
 
 				#top .image {
